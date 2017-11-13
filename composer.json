@@ -1,8 +1,8 @@
 {
-    "name": "getresponse/getresponse",
+    "name": "Tantacula/getresponse",
     "description": "GetResponse API v3 client library.",
-    "version": "0.0.2",
-    "homepage": "https://github.com/GetResponse/getresponse-api-php",
+    "version": "0.0.3",
+    "homepage": "https://github.com/Tantacula/getresponse-api-php",
     "keywords": ["GetResponse", "api", "email"],
     "type": "library",
     "license": "MIT",
