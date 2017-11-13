@@ -1,5 +1,5 @@
 {
-    "name": "Tantacula/getresponse",
+    "name": "tantacula/getresponse",
     "description": "GetResponse API v3 client library.",
     "version": "0.0.3",
     "homepage": "https://github.com/Tantacula/getresponse-api-php",
