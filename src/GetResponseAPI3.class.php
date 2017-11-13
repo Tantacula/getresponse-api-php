@@ -336,7 +336,7 @@ class GetResponse
      * @return mixed
      * @throws Exception
      */
-    private function call($api_method = null, $http_method = 'GET', $params = array())
+    public function call($api_method = null, $http_method = 'GET', $params = array())
     {
         if (empty($api_method)) {
             return (object)array(
@@ -392,7 +392,7 @@ class GetResponse
      *
      * @return string
      */
-    private function setParams($params = array())
+    public function setParams($params = array())
     {
         $result = array();
         if (is_array($params)) {
